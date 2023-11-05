@@ -52,13 +52,13 @@ Do You Want To Update Your Name?<br/>
 Your Old Name Is Jay<br/>
 What Is Your Correct Name?<br/>
 
-> > Ankush<br/>
-> > OK..<br/>
-> > your old name is Jay & Your new name is Ankush.<br/>
-> > Do You Want To Confirm Your Changes?<br/>
-> > 1.Yes 2.No<br/>
-> > Select Yes or No: 1<br/>
-> > Employee Data Updated Successfully<br/>
+Ankush<br/>
+OK..<br/>
+your old name is Jay & Your new name is Ankush<br/>
+Do You Want To Confirm Your Changes?<br/>
+1.Yes 2.No<br/>
+Select Yes or No: 1<br/>
+Employee Data Updated Successfully<br/>
 
 102 Ankush Sales 45000.601563
 
