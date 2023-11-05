@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-// initilizing global variables
+//initializing global variables
 int b = 1;
 int k, n = 0, eid = 0, ch = 0, cmp = 1;
 char newName[20];
